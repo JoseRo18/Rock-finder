@@ -1,0 +1,2 @@
+# Rock finder
+Final project 
